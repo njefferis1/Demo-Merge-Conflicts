@@ -1,3 +1,3 @@
 # Demo-Merge-Conflicts
 
-by Nic Jefferis
+A simple demo, by Nic Jefferis, for DMIT-2018
